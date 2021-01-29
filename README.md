@@ -15,8 +15,8 @@ I am Sunwarul Islam, from Rangpur Bangladesh. A tech enthusiast & an open-source
 
 <!-- ### ⚡ Technologies -->
 <p>
-<!-- <code>⚡ LOVE TO WORK WITH THESE TECHNOLOGIES:</code> -->
-⚡ LOVE TO WORK WITH THESE TECHNOLOGIES:
+<code>⚡ LOVE TO WORK WITH THESE TECHNOLOGIES:</code>
+<!-- ⚡ LOVE TO WORK WITH THESE TECHNOLOGIES: -->
 <!-- Love to work with these technologies: -->
 
 ![Php](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
