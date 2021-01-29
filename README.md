@@ -12,7 +12,7 @@ I am Sunwarul, from Rangpur Bangladesh. I am a tech enthusiast & an open-source 
 
 </p>
 
-## ⚡ Technologies
+### ⚡ Technologies
 
 ![Php](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
@@ -28,13 +28,20 @@ I am Sunwarul, from Rangpur Bangladesh. I am a tech enthusiast & an open-source 
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![DigitalOcean](https://img.shields.io/badge/-Digital%20Ocean-darkblue?style=flat-square&logo=digitalocean)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=sunwarul&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sunwarul&hide=TeX&layout=compact)
+<!-- Integrated App (For statistics) -->
+
+<!-- GitHub stat -->
+
+<!-- ![Github Stats](https://github-readme-stats.vercel.app/api?username=sunwarul&count_private=true&show_icons=true&include_all_commits=true) -->
+
+<!-- Most used languages -->
+
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sunwarul&hide=TeX&layout=compact) -->
 
 <!--
 
+EXTRA (NOT ACTIVE)
 
 [![Linkedin Badge](https://img.shields.io/badge/-anirudhemmadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sunwarul/)](https://www.linkedin.com/in/sunwarul/)
 
