@@ -12,7 +12,9 @@ I am Sunwarul, from Rangpur Bangladesh. I am a tech enthusiast & an open-source 
 
 </p>
 
-### ⚡ Technologies
+<!-- ### ⚡ Technologies -->
+<p>
+⚡ Technologies I Love to Work With:
 
 ![Php](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
@@ -29,6 +31,7 @@ I am Sunwarul, from Rangpur Bangladesh. I am a tech enthusiast & an open-source 
 ![DigitalOcean](https://img.shields.io/badge/-Digital%20Ocean-darkblue?style=flat-square&logo=digitalocean)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 
+</p>
 <!-- Integrated App (For statistics) -->
 
 <!-- GitHub stat -->
