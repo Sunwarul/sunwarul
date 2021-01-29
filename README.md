@@ -9,7 +9,7 @@ I am Sunwarul, from Rangpur Bangladesh. I am a tech enthusiast & an open-source 
 <a href="https://medium.com/@sunwarul"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25></a>
 <a href="https://dev.to/sunwarul"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" height=25></a>
 <a href="https://facebook.com/sunwarul"><img src="https://img.shields.io/badge/Facebook-blue?&style=for-the-badge&logo=facebook&logoColor=white" height=25></a>
-<a href="https://quora.com/sunwarul"><img src="https://img.shields.io/badge/Quora-red?&style=for-the-badge&logo=quora&logoColor=white" height=25></a>
+<a href="https://www.quora.com/profile/Sunwarul-Islam"><img src="https://img.shields.io/badge/Quora-red?&style=for-the-badge&logo=quora&logoColor=white" height=25></a>
 
 </p>
 
@@ -24,18 +24,18 @@ I am Sunwarul, from Rangpur Bangladesh. I am a tech enthusiast & an open-source 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![DigitalOcean](https://img.shields.io/badge/-Digital%20Ocean-darkblue?style=flat-square&logo=digitalocean)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 
 </p>
 <!-- Integrated App (For statistics) -->
 
 <!-- GitHub stat -->
+<!-- ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
+![DigitalOcean](https://img.shields.io/badge/-Digital%20Ocean-darkblue?style=flat-square&logo=digitalocean) -->
 
 <!-- ![Github Stats](https://github-readme-stats.vercel.app/api?username=sunwarul&count_private=true&show_icons=true&include_all_commits=true) -->
 
