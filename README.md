@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Sunwarul, from Rangpur Bangladesh. I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
+I am Sunwarul, from Rangpur Bangladesh. A tech enthusiast & an open-source advocate. Always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
 <!-- Socical platform links -->
 
