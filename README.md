@@ -6,9 +6,7 @@ I am Sunwarul, from Rangpur Bangladesh. I am a tech enthusiast & an open-source 
 
 <p>
 <a href="https://twitter.com/sunwarul"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a>
-
 <a href="https://medium.com/@sunwarul"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25></a>
-
 <a href="https://dev.to/sunwarul"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" height=25></a>
 <a href="https://dev.to/sunwarul"><img src="https://img.shields.io/badge/Facebook-blue?&style=for-the-badge&logo=facebook&logoColor=white" height=25></a>
 
