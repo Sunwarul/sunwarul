@@ -1,17 +1,10 @@
 ### Hi there 👋
 
-I am Sunwarul Islam, from Rangpur Bangladesh. A tech enthusiast & an open-source advocate. Always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
-
-<!-- Socical platform links -->
-
-<p>
-<a href="https://twitter.com/sunwarul"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=23></a>
+I am Sunwarul Islam, from Rangpur Bangladesh. A tech enthusiast & an open-source advocate. Always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here: <a href="https://twitter.com/sunwarul"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=23></a>
 <a href="https://medium.com/@sunwarul"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=23></a>
 <a href="https://dev.to/sunwarul"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" height=23></a>
 <a href="https://facebook.com/sunwarul"><img src="https://img.shields.io/badge/Facebook-blue?&style=for-the-badge&logo=facebook&logoColor=white" height=23></a>
 <a href="https://www.quora.com/profile/Sunwarul-Islam"><img src="https://img.shields.io/badge/Quora-red?&style=for-the-badge&logo=quora&logoColor=white" height=23></a>
-
-</p>
 
 <!-- ### ⚡ Technologies -->
 <p>
